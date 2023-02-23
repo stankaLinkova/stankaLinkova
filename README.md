@@ -1,4 +1,26 @@
-### Hi there 👋
+<!-- <h3 align="center">Hi! My name is Stanka Linkova</h3> -->
+
+# 💬 Ask me about 
+* Web development
+* ReactJS
+* VueJS
+* MATLAB
+* Java
+
+
+# ⚡️ What I do
+- ReactJS and VueJS Developer
+
+# 📫 How to reach me
+- LinkedIn: [Stanislava Linkova](https://www.linkedin.com/in/stanislava-linkova-3661a2226)
+
+
+# My Contributions
+![Stanka's github stats](https://github-readme-stats.vercel.app/api?username=stankaLinkova&count_private=true&show_icons=true&theme=dark)
+
+# Most used languages
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stankaLinkova&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c&hide=jupyter%20notebook,html)
+
 
 <!--
 **stankaLinkova/stankaLinkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
