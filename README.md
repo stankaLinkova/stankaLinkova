@@ -1,4 +1,4 @@
-<!-- <h3 align="center">Hi! My name is Stanka Linkova</h3> -->
+<h3 align="center">Hi! My name is Stanka Linkova</h3>
 
 # 💬 Ask me about 
 * Web development
