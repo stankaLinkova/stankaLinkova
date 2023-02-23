@@ -1,4 +1,4 @@
-<h3 align="center">Hi! My name is Stanka Linkova</h3>
+## Hi! My name is Stanka Linkova
 
 # 💬 Ask me about 
 * Web development
