@@ -20,7 +20,7 @@
 ![Stanka's github stats](https://github-readme-stats.vercel.app/api?username=stankaLinkova&count_private=true&show_icons=true&theme=dark)
 
 # Most used languages
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stankaLinkova&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c&hide=jupyter%20notebook,html)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stankaLinkova&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c)
 
 
 <!--
